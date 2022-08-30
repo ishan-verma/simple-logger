@@ -3,8 +3,8 @@
 for basic js applications mostly for own usage 
 
 # TODO:
-- [] add aws s3 / cloudwatch logging
-- [] telegram message 
+- [ ] add aws s3 / cloudwatch logging
+- [ ] telegram message 
 
 #Install
 ```shell 
